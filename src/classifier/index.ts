@@ -1,5 +1,5 @@
 /**
- * Failure classifier for solana-smart-tx.
+ * Failure classifier for txpilot.
  *
  * Turns a raw error string (from an RPC, the Jito block engine, or a caught
  * exception) into a typed {@link FailureClassification} that tells the caller

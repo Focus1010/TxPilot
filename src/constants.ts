@@ -1,5 +1,5 @@
 /**
- * Package-wide defaults and lookup tables for solana-smart-tx.
+ * Package-wide defaults and lookup tables for txpilot.
  *
  * These values are the tuned defaults from the underlying transaction stack.
  * Every one of them can be overridden through {@link SmartTxConfig}.

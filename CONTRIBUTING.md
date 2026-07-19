@@ -1,4 +1,4 @@
-# Contributing to solana-smart-tx
+# Contributing to txpilot
 
 Thanks for wanting to help. This package exists to get builders from zero to a working payment bot in one afternoon, and every contribution that moves that goal forward is welcome.
 
@@ -16,8 +16,8 @@ Nigerian builders are the primary audience. Contributions that improve the exper
 ## Getting set up
 
 ```bash
-git clone https://github.com/Focus1010/solana-smart-Tx.git
-cd solana-smart-Tx
+git clone https://github.com/Focus1010/txpilot.git
+cd txpilot
 npm install
 cp .env.example .env   # fill in RPC_URL and WALLET_PRIVATE_KEY
 npm run build          # must pass with zero errors

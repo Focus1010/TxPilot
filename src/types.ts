@@ -1,5 +1,5 @@
 /**
- * Public type definitions for solana-smart-tx.
+ * Public type definitions for txpilot.
  *
  * Every type here is exported from the package root and forms the stable,
  * developer-facing API surface. Keep these types clean and well documented,

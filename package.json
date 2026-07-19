@@ -1,7 +1,7 @@
 {
-  "name": "solana-smart-tx",
+  "name": "txpilot",
   "version": "0.1.0",
-  "description": "Smart Solana transaction stack for Nigerian builders. Reliable submission, lifecycle tracking, failure classification, and intelligent retry logic out of the box.",
+  "description": "Reliable Solana transaction submission for Nigerian builders. Smart tip selection, lifecycle tracking, 15-type failure classification, and intelligent retry out of the box.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",

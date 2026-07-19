@@ -1,5 +1,5 @@
 /**
- * Rule-based decision adapter for solana-smart-tx.
+ * Rule-based decision adapter for txpilot.
  *
  * This is the default adapter. It requires no AI provider and no external API
  * keys. Every decision is deterministic and derived purely from live network

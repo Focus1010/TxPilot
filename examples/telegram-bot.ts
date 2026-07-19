@@ -1,7 +1,7 @@
 /**
  * telegram-bot.ts - a stablecoin payment request bot pattern.
  *
- * This is a credible, runnable demonstration of how to wire solana-smart-tx
+ * This is a credible, runnable demonstration of how to wire txpilot
  * into a Telegram bot. It is intentionally small: three commands that show the
  * integration pattern most Nigerian builders reach for first.
  *

@@ -1,11 +1,11 @@
 /**
- * solana-smart-tx - public package entry point.
+ * txpilot - public package entry point.
  *
  * Everything a builder needs is re-exported from here, so imports stay flat:
  *
  * ```ts
- * import { SmartTx, FailureClassifier, DEFAULTS } from 'solana-smart-tx';
- * import type { SendResult, FailureType } from 'solana-smart-tx';
+ * import { SmartTx, FailureClassifier, DEFAULTS } from 'txpilot';
+ * import type { SendResult, FailureType } from 'txpilot';
  * ```
  */
 

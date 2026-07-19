@@ -1,12 +1,12 @@
 /**
- * AI decision adapter for solana-smart-tx.
+ * AI decision adapter for txpilot.
  *
  * This is a stub. It mirrors the shape of the rule-based adapter so the rest of
  * the package can depend on a stable interface, but the decision logic is not
  * implemented in this version. Selecting `mode: 'ai'` and calling a method here
  * throws a descriptive {@link NotImplementedError}.
  *
- * Contributions welcome: https://github.com/Focus1010/solana-smart-tx
+ * Contributions welcome: https://github.com/Focus1010/txpilot
  */
 
 import type {
@@ -22,7 +22,7 @@ import type {
 /** Message shown whenever an unimplemented AI method is invoked. */
 const NOT_IMPLEMENTED_MESSAGE =
   "AI adapter is not yet implemented in this version. Set mode: 'rule-based' in " +
-  'SmartTxConfig or contribute the AI adapter at github.com/Focus1010/solana-smart-tx';
+  'SmartTxConfig or contribute the AI adapter at github.com/Focus1010/txpilot';
 
 /**
  * Error thrown by every {@link AIAdapter} method until the AI adapter ships.

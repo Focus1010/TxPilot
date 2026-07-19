@@ -1,5 +1,5 @@
 /**
- * SmartTx - the entire developer-facing API for solana-smart-tx.
+ * SmartTx - the entire developer-facing API for txpilot.
  *
  * Give it a built transaction and it handles tip selection, submission
  * (Jito bundle or standard RPC), lifecycle tracking, failure classification,
