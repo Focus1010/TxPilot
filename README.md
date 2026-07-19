@@ -9,8 +9,6 @@ Smart Solana transactions for builders who need payments to actually land.
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue.svg)](https://www.typescriptlang.org/)
 ![solana](https://img.shields.io/badge/Solana-mainnet--beta-9945FF)
 [![Node >= 20](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org/)
-[![Build](https://img.shields.io/github/actions/workflow/status/Focus1010/solana-smart-Tx/ci.yml?branch=main)](https://github.com/Focus1010/solana-smart-Tx/actions)
-
 </div>
 
 ## The problem
