@@ -1,6 +1,6 @@
 <div align="center">
 
-# txpilot
+# TxPilot
 
 Smart Solana transactions for builders who need payments to actually land.
 
